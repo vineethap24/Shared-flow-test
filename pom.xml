@@ -29,7 +29,7 @@
     <!--artifactId>forecastweatherapi</artifactId-->
 	<artifactId>security-sharedflow</artifactId>
     <version>1.0</version>
-    <name>forecastweatherapi</name>
+    <name>MyFirstSharedFlow</name>
     <packaging>pom</packaging>
  
 
